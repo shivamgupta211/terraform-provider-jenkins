@@ -125,8 +125,6 @@ github.com/bmatcuk/doublestar v1.1.5 h1:2bNwBOmhyFEFcoB3tGvTD5xanq+4kyOZlB8wFYbM
 github.com/bmatcuk/doublestar v1.1.5/go.mod h1:wiQtGV+rzVYxB7WIlirSN++5HPtPlXEo9MEoZQC/PmE=
 github.com/bmatcuk/doublestar v1.3.3 h1:pVP1d49CcQQaNOl+PI6sPybIrIOD/6sux31PFdmhTH0=
 github.com/bmatcuk/doublestar v1.3.3/go.mod h1:wiQtGV+rzVYxB7WIlirSN++5HPtPlXEo9MEoZQC/PmE=
-github.com/bndr/gojenkins v1.0.1 h1:DFIuamRSmXoI/CwB44txuRf8xaHZNejZge/Lui4RYD4=
-github.com/bndr/gojenkins v1.0.1/go.mod h1:J2FxlujWW87NJJrdysyctcDllRVYUONGGlHX16134P4=
 github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cheggaaa/pb v1.0.27/go.mod h1:pQciLPpbU0oxA0h+VJYYLxO+XeDQb5pZijXscXHm81s=
@@ -519,8 +517,6 @@ github.com/onsi/gomega v1.5.0/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1Cpa
 github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db h1:9uViuKtx1jrlXLBW/pMnhOfzn3iSEdLase/But/IZRU=
 github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
-github.com/piotrjaromin/gojenkins v0.2.0 h1:x/bWLJxNQaC4Bn/eIbeQJFaQ5zKMIWJHFIE5mLIzo1s=
-github.com/piotrjaromin/gojenkins v0.2.0/go.mod h1:sF8saCV/8KugF2rmD7Fn1VB4ObJ2T9+KS/T2+8LNKx0=
 github.com/piotrjaromin/gojenkins v0.2.1-0.20181018080409-cd092857d51b h1:hxeQY27FsXOjKL9y60WXa+bUrZROswszyqOEPe8p6Sg=
 github.com/piotrjaromin/gojenkins v0.2.1-0.20181018080409-cd092857d51b/go.mod h1:sF8saCV/8KugF2rmD7Fn1VB4ObJ2T9+KS/T2+8LNKx0=
 github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4 h1:49lOXmGaUpV9Fz3gd7TFZY106KVlPVa5jcYD1gaQf98=

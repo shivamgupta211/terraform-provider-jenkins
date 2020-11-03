@@ -7,7 +7,7 @@ import (
 	"github.com/shivamgupta211/terraform-provider-jenkins/pkg/resources/job"
 	"github.com/shivamgupta211/terraform-provider-jenkins/pkg/resources/plugins"
 
-	"github.com/bndr/gojenkins"
+	"github.com/piotrjaromin/gojenkins"
 )
 
 func Provider() *schema.Provider {

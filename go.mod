@@ -9,7 +9,6 @@ require (
 	github.com/apparentlymart/go-versions v1.0.1 // indirect
 	github.com/aws/aws-sdk-go v1.35.20 // indirect
 	github.com/bmatcuk/doublestar v1.3.3 // indirect
-	github.com/bndr/gojenkins v1.0.1
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-getter v1.5.0 // indirect
